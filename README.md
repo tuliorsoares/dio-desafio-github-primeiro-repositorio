@@ -1,6 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
 ## Desafio de Projeto
  - Git/GitHub
- - HTML
+ - HTML5 e CSS3
  - JavaScript
- - CSS
